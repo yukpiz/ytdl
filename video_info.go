@@ -16,7 +16,7 @@ import (
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
-	log "github.com/sirupsen/logrus"
+	log "github.com/Sirupsen/logrus"
 )
 
 const youtubeBaseURL = "https://www.youtube.com/watch"
